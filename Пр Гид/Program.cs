@@ -8,6 +8,7 @@ namespace _10._3
         static void Main(string[] args)
         {
             Console.WriteLine("Что-то пишу. Потому что так нужно");
+            Console.WriteLine("Типа изменяю");
         }
         
     }
