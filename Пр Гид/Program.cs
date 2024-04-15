@@ -9,6 +9,7 @@ namespace _10._3
         {
             Console.WriteLine("Что-то пишу. Потому что так нужно");
             Console.WriteLine("Типа изменяю");
+            console.WriteLine("Тебя взломали, ахахаха);
         }
         
     }
